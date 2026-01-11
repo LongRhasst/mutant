@@ -88,8 +88,7 @@ This pipeline performs:
 
 ### Minimum Requirements
 
-- Docker >= 20.10
-- Docker Compose >= 2.0
+- Docker ==  4.41.2
 - 5GB Disk Space
 - 2GB RAM
 

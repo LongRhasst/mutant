@@ -1,0 +1,6 @@
+# Dependencies needed for Airflow DAGs
+apache-airflow-providers-common-sql
+numpy==2.4.0
+pillow==12.1.0
+rdkit==2025.9.3
+redis==7.1.0
